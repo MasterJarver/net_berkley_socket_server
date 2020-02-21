@@ -3,11 +3,6 @@
 * email: oleh.korshun@gmail.com
 */
 #include <iostream>
-#include <sys/types.h>
-#include <sys/socket.h>
-#include <netinet/in.h>
-#include <unistd.h>
-#include <arpa/inet.h>
 #include "server.h"
 
 const int kPort = 12345;
